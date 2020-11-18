@@ -6,7 +6,7 @@ const tipCollection = [
         text: "Don't overfeed the fish."
     },
     {
-        text: "Make sure you have plenty of space for each fish. Fish can become aggressive or depressed if there are too many in the tank."
+        text: "Make sure you have plenty of space for each fish."
     },
     {
         text: "Just keep swimming."
