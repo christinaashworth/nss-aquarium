@@ -1,5 +1,12 @@
-import { FishList } from "./FishList.js"
+import { FishList } from "./Fish/FishList.js";
 
-FishList()
+FishList();
 
 
+import { TipList } from "./Tips/TipList.js";
+
+TipList();
+
+import { LocationList } from "./Locations/LocationList.js";
+
+LocationList();
