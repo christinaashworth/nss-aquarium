@@ -4,37 +4,45 @@ header {
     align-items: center;
 }
 
+body {
+    background-color: #f2cef2;
+}
+
 .content {
     display: flex;
     justify-content: center;  
   }
 
-.container-left {
+.container--left {
     margin-right: 50px;
+    margin-left: 20px;
+    border: solid black 2px;
 }
 
-.container-right {
+.container--right {
     margin-left: 50px;
+    margin-right: 20px;
+    border: solid black 2px;
 }
 
 .fishList {
     font-weight: bold;
+    margin: 20px;
 }
 .fish__image {
-    height: 10em;
-}
-
-.fish {
-    padding: 15px;
+    height: 18em;
 }
 
 .quotes {
-    padding: 15 px;
+    margin: 20px;
     font-weight: bold;
 }
 
 .locations {
-    padding: 15 px;
     font-weight: bold;
+    margin: 20px;
 }
 
+.location__image {
+    height: 18em;
+}
